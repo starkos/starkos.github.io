@@ -3,5 +3,6 @@
 A place to put personal coding-type things.
 
 - CV ([html](cv.html) | [pdf](cv.pdf))
-- [Stack Overflow profile](https://stackoverflow.com/story/starkos)
-- [LinkedIn profile](https://www.linkedin.com/in/starkos)
+- On [GitHub](https://github.com/starkos) →
+- On [Stack Overflow](https://stackoverflow.com/story/starkos) →
+- On [LinkedIn](https://www.linkedin.com/in/starkos) →
